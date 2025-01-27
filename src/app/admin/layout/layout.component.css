@@ -1,6 +1,4 @@
 .admin-container {
-  width: auto;
-  height: 500px;
-  margin: 10px;
-  background: #eee;
+  height: calc(100vh - 64px);
+  width: 100%;
 }
